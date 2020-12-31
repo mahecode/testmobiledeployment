@@ -11,7 +11,7 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "start": "HOST=http://117.229.124.105/ PORT=2020 react-scripts start",
+    "start": "HOST=117.229.124.105 PORT=2020 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
